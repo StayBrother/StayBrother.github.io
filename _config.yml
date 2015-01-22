@@ -18,18 +18,18 @@ shTheme: shThemeDefault # shThemeDefault  shThemeDjango  shThemeEclipse  shTheme
 #SyntaxHihglighter config end
 
 blog:
-    name: 宋仁飞                                          # 博客名称
-    description: 趁自己还年轻，给自己一个牛逼的机会。         # 博客描述
-    title: songrenfei                                    # 网页标题
-    url: http://freefei.github.io/                       # 博客地址
-    duoshuo: freefei                                     # 多说ID
+    name: Stay  Brother                                          # 博客名称
+    description: 一程序员去面试，面试官问：“你毕业才两年，这三年工作经验是怎么来的？！”程序员答：“加班。”。         # 博客描述
+    title: Stay Brother                                    # 网页标题
+    url: http://StayBrother.github.io/                       # 博客地址
+    duoshuo: StayBrother                                     # 多说ID
     tongji: e0d9a75a7e53b54cd1e6649facd5906e             # 百度统计ID
     qiniu:                                               # 七牛云地址
 author:
-    name: songrenfei                                     # 作者名称
-    email: songrenfei@163.com                            # 邮箱地址
+    name: Stay Brother                                     # 作者名称
+    email:                            # 邮箱地址
     weibo: http://weibo.com/3945136539                   # 微博地址
-    github: https://github.com/freefei                   # GitHub地址
+    github: https://github.com/StayBrother                   # GitHub地址
     logo: /res/img/bike.jpg                              # logo地址
     douban:
         name:                                            # 豆瓣地址名称
