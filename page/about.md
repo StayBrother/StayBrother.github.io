@@ -28,12 +28,11 @@ blockquote p {
 <hr id="line"/>
 
 
-
 > 网名: freefei   
-> Email: <a href="mailto:sonrenfei@gmail.com">sonrenfei@gmail.com</a><br />
-> 微&nbsp;&nbsp;博: <a href="http://weibo.com/3945136539/profile?topnav=1&wvr=6">@sonrenfei</a>  
-> GitHub：[freefei](https://github.com/freefei)  
-> CSDN: [sonrenfei](http://my.csdn.net/sonrenfei)  
+> Email: <a href="mailto:lwh964321@sina.com">lwh964321@sina.com</a><br />
+> 微&nbsp;&nbsp;博: <a href="http://weibo.com/3506410444/profile?topnav=1&wvr=6">@StayBrother</a>  
+> GitHub：[StayBrother](https://github.com/staybrother)  
+> CSDN: [StayBrother](http://my.csdn.net/staybrother)  
 > ....
 
 ---
@@ -43,7 +42,7 @@ blockquote p {
 ---
 
 > [珍惜每个今天才有无悔的明天](/)
-
+> [想起那夕阳下奔跑的身影，那是我们逝去的青春](/)
 ---
 
 {% if page.duoshuo != false %}{% include duoshuo.html %}{% endif %}
